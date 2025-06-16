@@ -44,7 +44,7 @@ def main():
     output_data = create_output_data(all_elements, categorized_elements)
     
     # Save data to file
-    save_output_data(output_data, f"enhanced_unstructured_output_{datetime.datetime.now().strftime('%Y%m%d_%H%M%S')}.json")
+    save_output_data(output_data, f"output_{datetime.datetime.now().strftime('%Y%m%d_%H%M%S')}.json")
     
     # Print summary
     print_summary(output_data)
