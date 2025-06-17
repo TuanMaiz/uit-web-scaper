@@ -1,0 +1,139 @@
+{
+  "departments": [
+    {
+      "name": "general",
+      "emails": [
+        "nhannh@uit.edu.vn",
+        "thiennt@uit.edu.vn",
+        "ductt@uit.edu.vn",
+        "thaonm@uit.edu.vn",
+        "tuyensinh@uit.edu.vn",
+        "luanph@uit.edu.vn",
+        "nguyentq@uit.edu.vn",
+        "quangtv@uit.edu.vn",
+        "diemhn@uit.edu.vn",
+        "nghialh@uit.edu.vn",
+        "duongtd@uit.edu.vn",
+        "duypd@uit.edu.vn",
+        "luongnh@uit.edu.vn",
+        "quanpm@uit.edu.vn",
+        "locth@uit.edu.vn",
+        "truongnh@uit.edu.vn",
+        "diemtt@uit.edu.vn",
+        "cuongtv@uit.edu.vn",
+        "EMAILinfo@uit.edu.vn",
+        "bachndx@uit.edu.vn",
+        "khaild@uit.edu.vn",
+        "info@uit.edu.vn",
+        "huytl@uit.edu.vn",
+        "nhannt@uit.edu.vn",
+        "lungvd@uit.edu.vn",
+        "sonnm@uit.edu.vn",
+        "ce@uit.edu.vn",
+        "nhutdt@uit.edu.vn",
+        "tungtt@uit.edu.vn",
+        "hungpq@uit.edu.vn"
+      ]
+    },
+    {
+      "name": "Hình ảnh Họ tên Chức danh Bộ môn Email - Thông tin liên hệ Website Giới thiệu hướng nghiên cứu - đề tài cho sinh viên PGS. TS. Lê Trung Quân Trưởng khoa Mạng máy tính Email: quanlt@uit.edu.vn fb messenger: Quan Le-Trung skype {sinh viên gởi skype_id để liên hệ add vào group} Website Hướng nghiên cứu: IoTs, wireless networks 5G, femtocells, software-defined radios embedded systems, cyber-physical systems cloud computing, edge/fog computing, virtualization (NFV/SDN) dev. AI/IoTs apps, smart AI/IoTs apps for smart cities netFPGA, design/dev IoTs/embedded devices (OEM) thông tin tham khảo: https://sites.google.com/site/quanletrung/home/publications-html Đề tài cho sinh viên: một số topics như sau, chi tiết sẽ thảo luận thêm: AI & IoTs/5G apps {dev. smart apps} edge computing & container & AI {dev. apps/solutions} edge computing & container & AI {dev. services} edge computing & container & code caching {reconfiguration} cloud computing & edge computing & load-balancing {reconfiguration} IoTs/5G emulators & LoraWAN femtocells, software-defined radios Yêu cầu: Báo cáo tiến độ thực hiện theo định kỳ {trung bình 02/03 tuần một lần Tham gia sinh hoạt seminars hàng tuần trong nhóm nghiên cứu UiTiOt https://iot.uit.edu.vn/ ThS. Trần Thị Dung Phó Trưởng khoa Truyền thông dungtt@uit.edu.vn DevOps, Network/System Automation TS. Phạm Văn Hậu Trưởng bộ môn An toàn thông tin haupv@uit.edu.vn Các chủ đề nghiên cứu chính như sau: +SPS: Software-defined programmable security + Cyber Deception (honeypot, network forensics) & Điều tra bằng chứng số, tội phạm số (digital forensics) trên không gian mạng + AI-based Cybersecurity: Ứng dụng trí tuệ nhân tạo (machine learning/deep learning, Generative Adversarial Networks) cho bài toán an ninh trên không gian mạng (IDS, malware detector, phishing detector) + AI security (adversarial machine learning): nghiên cứu các mô hình sinh (generative model) như Generative Adversarial Networks (GANs)/Variational Autoencoder (VAE) hay Flows - để giải quyết các vấn đề về tính bền vững của các phương pháp học máy trước dữ liệu đối kháng (dữ liệu độc hại/tấn công có nhiễu để đánh lừa bộ nhận diện với kết quả phân loại sai) + Blockchain (các công nghệ nền tảng, giao thức và các ứng dụng thực tế): Ứng dụng Blockchain trong các ngữ cảnh an toàn mạng/ điều tra, chuyển giao bằng chứng số + Lập trình an toàn: Giải pháp kiểm thử xâm nhập, bảo mật thông tin và tính riêng tư cho người dùng trong các ứng dụng (end-to-end encryption, pentesting, software vulnerablity,....) + Mobile and IoT security Xem chi tiết tại: https://inseclab.uit.edu.vn/de-tai-nghien-cuu-attt/ Yêu cầu cụ thể: -Các đề tài về an toàn, bảo mật mạng sẽ thực hiện trong ngữ cảnh các hệ thống mạng áp dụng kiến trúc điều khiển SDN (mạng khả lập trình). -Các đề tài về phần mềm mã độc được thực hiện trong ngữ cảnh mã độc nền tảng Android và Windows. -Khuyến khích sinh viên nên chọn mỗi nhóm 2 thành viên để đạt được kết quả tốt trong quá trình thực hiện NCKH/Đồ án chuyên ngành/Khóa luận tốt nghiệp. TS. Lê Kim Hùng Trưởng bộ môn Truyền thông hunglk@uit.edu.vn Website Hướng nghiên cứu: Ứng dụng AI trong Cyber Security và Internet of Things AI + IoT 1. Remote management and deployment for AI models in Single board Computer / Triển khai và quản lý từ xa các AI models trên các máy tính nhúng. Hiện tại việc thực thi các AI model trên các thiết bị nhúng đóng vài trò là các thiết bị mạng biên đang là một giải pháp tiềm năng nhằm giảm độ trễ và lưu lượng mạng trao đổi với cloud. Tuy nhiên việc triển khai và thực thi các AI model trên các thiết bị này còn hạn chế. Đề tài hướng tới xây dựng một hệ thống cho phép triển khai (deploy) và quản lý từ xa các AI model trên các thiết bị nhúng hạn chế về phần cứng. 2. Adaptive reconfiguration for edge netword devices to detect DDoS attacks powered by Machine learning / Phương pháp tái cấu hình ứng dụng máy học cho các thiết bị mạng biên nhằm thích ứng với các cuộc tấn công DDos. Đề tài hướng đến việc tái cấu hình một thiết bị mạng biên bất kỳ (router, switch) trờ thành một thiết bị IDS một cách nhanh chóng nhằm thích ứng với việc ngăn chặn các cuộc tấn cong DDos. 3. Applied AI to generating IoT synthetic data for smart city context / Ứng dụng AI để tạo ra dữ liệu giả dùng trong mô phỏng ngữ cảnh thành phố thông minh. Dữ liệu thực tế hiện tại là một vấn đề hạn chế trong việc đánh giá và xây dựng các ứng dụng cho thành phố thông minh. Đề tài hướng tới việc tạo ra một thuật toán (AI, deep learning) cho phép tạo ra các dữ liệu giả có chất lượng tương đương dữ liệu thực tế. 4. Early Fire Detection using a AI camera / Cảnh báo và phát hiện đám cháy sớm sử dụng trí tuệ nhân tạo cho các thiết bị camera giá rẻ. Đề tài hướng tới xây dựng một camera thông minh giá rẻ trang bị thuật toán cảnh báo đám cháy sớm với độ chính xác cao. Camera kết hợp với hệ thống cảm biến triển khai lân cận có thể đưa ra cảnh bảo chính xác về các nguy cơ cháy, đặc biệt là cháy rừng. 5. Analysis of traffic flow using AI camera / Thống kê lưu lượng giao thông trên đường sử dụng thiết bị camera thông minh. Đề tài xây dựng camera thông minh có khả năng thống kê lưu lượng giao thông tại ngã 4 vào các thời điểm khác nhau từ đó đưa ra đề xuất về việc tối ưu hóa hệ thống đèn giao thông. 6. High speed plate license detection using AI camera / Nhận dạng biển số xe oto ở tốc độ cao sử dụng thiết bị camera thông minh. Đề tài hướng tới xây dựng 1 camera thông minh với chi phí thấp từ các máy tính nhúng có khả năng nhận diện biển số xe tự động. Từ đó hướng tới xây dựng hoàn chỉnh hệ thống bãi xe thông minh trong ngữ cảnh thành phố thông minh. 7. Building AI-based IoT device simulator/ Xây dựng thiết bị IoT ảo dựa trên trí tuệ nhân tạo. Xây dựng một thiết bị IoT ảo có khả năng tự sinh dữ liệu tương tự như giữ liệu thu thập từ các cảm biến. Thiết bị ảo đóng vai trò qua trọng trong việc xây dựng các mô phỏng quy mô lớn dùng trong thành phố thông minh. 8. Building LoRa-based Smart City Demo (Smart home, smart watering, smart air monitoring,….) / Xây dựng mô hình mô hình thành phố thông minh sử dụng kết nôi Lora AI + Security 1. Toward to AI-based IDS for early Network Attack detection. Mục tiêu của đề tài là xây dựng một hệ thống phát hiện xâm nhập sớm (IDS) các cuộc tấn công mạng thông qua việc sử dụng các thuật toán AI để phân tích lưu lượng mạng. Hầu hết các cuộc tấn công mạng đều có những dấu hiệu nhận biết đặc trưng khác nhau nên việc xây dụng một hệ thống IDS có khả năng phát hiện nhiều loại tấn công với độ chính xác cao là đích của đề tài hướng tới [Ref: https://arxiv.org/ftp/arxiv/papers/2008/2008.00088.pdf]. 2. Re-configurating SDN controller to enhance security. Đề tài nhắm đến việc nâng cao khả năng bảo vệ SDN controller nhằm chống lại các cuộc tấn công mạng từ bên ngoài thông qua việc thêm vào các phương thức mã hóa dữ liệu và phát hiện bất thường nhưng vẫn không ảnh hưởng đến hiệu xuất mạng [Ref: https://ieeexplore.ieee.org/abstract/document/8543824]. 3. AI-based NVF for IDS/IPS. Đề tài hướng đến việc ứng dụng Network Function Virtualization trong việc triển khai các thuật toán AI tới các IDS một cách nhanh chóng [Ref: https://www.sciencedirect.com/science/article/abs/pii/S1389128618300306]. 4. Identifying and Benchmarking key features for Cyber Intrusion Detection. Đề tài hướng tới việc xây dựng một thuật toán có khả năng xác định và đánh giá tầm quan trọng của các Network Features (protocols, source IP,…)",
+      "emails": [
+        "danghv@uit.edu.vn",
+        "tanth@uit.edu.vn",
+        "namnguyen@uit.edu.vn",
+        "thuatnk@uit.edu.vn",
+        "luanvt@uit.edu.vn",
+        "phatpt@uit.edu.vn",
+        "nghith@uit.edu.vn",
+        "hunglk@uit.edu.vn",
+        "quangtnn@uit.edu.vn",
+        "baonv@uit.edu.vn",
+        "camnguyentan@gmail.com",
+        "hadtt@uit.edu.vn",
+        "thinhld@uit.edu.vn",
+        "tunn@uit.edu.vn",
+        "nhanlt@uit.edu.vn",
+        "quyennh@uit.edu.vn",
+        "hungtm@uit.edu.vn",
+        "hiendh@uit.edu.vn",
+        "duypt@uit.edu.vn",
+        "khoanh@uit.edu.vn",
+        "hiendtt@uit.edu.vn",
+        "quanlt@uit.edu.vn",
+        "binhbtt@uit.edu.vn",
+        "binhbt@uit.edu.vn",
+        "thienpx@uit.edu.vn",
+        "duyn@uit.edu.vn",
+        "tuanla@uit.edu.vn",
+        "hoilmk@uit.edu.vn",
+        "nhiemtb@uit.edu.vn",
+        "hoant@uit.edu.vn",
+        "phuocnth@uit.edu.vn",
+        "nhungpt@uit.edu.vn",
+        "longnpb@uit.edu.vn",
+        "dungtt@uit.edu.vn",
+        "dungtrt@uit.edu.vn",
+        "chuongdlb@uit.edu.vn",
+        "trungdm@uit.edu.vn",
+        "vietnhq@uit.edu.vn",
+        "nghiatt@uit.edu.vn",
+        "haupv@uit.edu.vn",
+        "landth@uit.edu.vn"
+      ]
+    },
+    {
+      "name": "Email: info.nc@uit.edu.vn Điện thoại: (028)3 725 1993 (122)",
+      "emails": [
+        "info.nc@uit.edu.vn"
+      ]
+    },
+    {
+      "name": "Bộ môn Hệ thống Thông tin Quản lý (DMIS – Department of Management Information System)",
+      "emails": [
+        "nghiepth@uit.edu.vn",
+        "binhpnt@uit.edu.vn",
+        "trinhd@uit.edu.vn",
+        "khalvd@uit.edu.vn",
+        "longdp@uit.edu.vn",
+        "binhnt@uit.edu.vn",
+        "phuongtv@uit.edu.vn",
+        "trunghlh@uit.edu.vn",
+        "phungdtm@uit.edu.vn",
+        "phungntk@uit.edu.vn",
+        "thuannd@uit.edu.vn"
+      ]
+    },
+    {
+      "name": "Bộ môn Hệ thống Thông tin Thông minh (DIIS – Department of Intelligent Information System)",
+      "emails": [
+        "nhanct@uit.edu.vn",
+        "vietnq@uit.edu.vn",
+        "viethh@uit.edu.vn",
+        "sangvm@uit.edu.vn",
+        "thanhdd@uit.edu.vn",
+        "hungmx@uit.edu.vn"
+      ]
+    },
+    {
+      "name": "Bộ môn Thương mại Điện tử (DEC – Department of E-Commerce)",
+      "emails": [
+        "havds@uit.edu.vn",
+        "nhanct@uit.edu.vn",
+        "tintt@uit.edu.vn",
+        "hanhnt@uit.edu.vn",
+        "hangnm@uit.edu.vn",
+        "thopna@uit.edu.vn",
+        "khanhldd@uit.edu.vn",
+        "quelnn@uit.edu.vn",
+        "huyhd@uit.edu.vn",
+        "trieutvh@uit.edu.vn"
+      ]
+    },
+    {
+      "name": "Tầng 9 - Tòa nhà E, Trường Đại học Công Nghệ Thông Tin Khu phố 6, P.Linh Trung, Tp.Thủ Đức, Tp.Hồ Chí Minh. 028 3725 2002 (Ext: 119)",
+      "emails": [
+        "info.httt@uit.edu.vn"
+      ]
+    }
+  ]
+}
